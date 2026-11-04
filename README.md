@@ -1,2 +1,2 @@
 # best-repo-ever
-teste de edicao
+teste de conflict
